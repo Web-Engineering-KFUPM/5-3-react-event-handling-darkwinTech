@@ -16,7 +16,7 @@ Setup
    npm install or npm i  
 4. To see the output, start the development server by running:  
    npm run dev  
-
+Done!
 Note: In order to gain good marks in the lab, please follow the lab instructions strictly.  
 
 ------------------------------------------------------------
